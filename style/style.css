@@ -536,10 +536,7 @@ body {
 
 
 
-
-
-/* Perfect */
-.perfect {
+.perfect-place {
     margin-top: 100px;
     display: flex;
     gap: 20px;
@@ -697,7 +694,7 @@ body {
 }
 
 
-/* Footer Part */
+
 
 .foot-container {
     margin: 200px 0;
@@ -774,7 +771,7 @@ body {
         display: none;
     }
 
-    .menu-bar {
+    .menu {
         display: block;
         font-size: 2rem;
         cursor: pointer;
@@ -791,11 +788,10 @@ body {
         font-weight: 800;
     }
 
-    /* Hero Section */
+    
 
     .hero {
         width: 100%;
-        ;
         height: 490px;
         padding-top: 15px;
         background-size: auto;
@@ -836,7 +832,7 @@ body {
         justify-content: space-evenly;
     }
 
-    /* Popular Tour */
+    
     .popular-tours {
         flex-direction: column;
         padding: 0 0;
@@ -866,7 +862,7 @@ body {
         object-fit: cover;
     }
 
-    /* Destination */
+   
     .destination-content h2 {
         font-size: 1.2rem;
     }
@@ -893,7 +889,7 @@ body {
         font-size: 20px;
         font-weight: 600;
     }
-    /* Choose part */
+   
     .choose-title h2 {
         font-size: 1.2rem;
     }
@@ -916,18 +912,14 @@ body {
         height: 289px;
     }
 
-    /* .center-card {
-        width: 320px;
-        height: 342px;
-        margin: 0 auto;
-    } */
+   
     .left-card .icon img,
     .right-card .icon img ,.center-card .icon img{
         height: 40px;
         width: 40px;
     }
 
-    /* review part */
+    
     .review-title h2{
         font-size: 20px;
     }
@@ -945,7 +937,7 @@ body {
     .review-1 p,.review-2 p{
         font-size: 14px;
     }
-    /* Deals */
+   
 
     .deals-title h2 {
         font-size: 20px;
@@ -1001,7 +993,7 @@ body {
     .time h5,.people h5, .location h5,.deal-card-price h3{
         font-size:14px;
     }
-    /*Perfect Section  */
+   
 
     .perfect {
         flex-direction: column;
@@ -1038,7 +1030,7 @@ body {
         font-weight: 700;
     }
 
-    /* Newsletter */
+  
     .newsletter {
         flex-direction: column;
     }
